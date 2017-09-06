@@ -19,7 +19,7 @@ A curated collection of articles and tutorials for developers to learn about Des
 
 ## Typography
 - [26 Digital Typography Rules for Beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3) - Quick collection of Typography tips. Some provide an explenation, some purely a direction.
-- [don't fear the internet - Web Typography](http://www.dontfeartheinternet.com/07-web-typography/) - 15 Minute Video by Jessica Hische about Web Typography. At around 8 minutes in, Jessica shows you step by step how she structures and styles a simple website. 
+- [don't fear the internet - Web Typography](http://www.dontfeartheinternet.com/07-web-typography/) - 15 minute Video by Jessica Hische about Web Typography. At around 8 minutes, Jessica shows you step by step how she structures and styles a simple website. 
 
 
 ## UI Design 
