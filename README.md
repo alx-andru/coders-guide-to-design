@@ -18,11 +18,13 @@ A curated collection of articles and tutorials for developers to learn about Des
 
 ## Typography
 - [26 Digital Typography Rules for Beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3) - Quick collection of Typography tips. Some provide an explenation, some purely a direction.
-- [don't fear the internet - Web Typography](http://www.dontfeartheinternet.com/07-web-typography/) - 15 minute Video by Jessica Hische about Web Typography. This Video is originally aimed at Designers learning to code. But I think it works in both directions. At around 8 minutes, Jessica shows you step by step how she structures and styles a simple website. 
+- [don't fear the internet - Web Typography](http://www.dontfeartheinternet.com/07-web-typography/) - 15 minute Video by Jessica Hische ([@jessicahische](https://twitter.com/jessicahische)) about Web Typography. This Video is originally aimed at Designers learning to code, but the concept works in both directions. At around 8 minutes, Jessica shows you step by step how she structures and styles a simple website. 
 
 
 ## UI Design 
 - [How to use contrast in UI Design](https://blog.prototypr.io/how-contrast-works-in-ui-design-21bf75a5a2bf) - A short scroll through blog post with examples on contrast can be used to direct attention. 
+- [Mastering the Power of Nothing](https://medium.springboard.com/mastering-the-power-of-nothing-a9f6971f1fd) - how to use whitespace in a design to improve user experience. Whitespace is one of the most valuable assets of interactive design. The whitespace on a page, even though often overlooked, can be every bit as important as the space occupied by UI elements.
 - [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda) - Couple of Suggestions that will improve your Design. 
 - [Optical adjustment](https://medium.com/@lukejones/optical-adjustment-b55492a1165c) - Different ways to adjust Elements in the context of an overall visual language, or how a human would perceive the object. 
-- [Stealing Your Way to Original Designs](http://danmall.me/articles/stealing-your-way-to-original-designs/) Dan Mall sharing his process to come up with an individual design. The more obscure your references, the more sources you combine, the more moves away from the original you can take, the more original your design will become.
+- [Stealing Your Way to Original Designs](http://danmall.me/articles/stealing-your-way-to-original-designs/) Dan Mall ([Dan Mall](https://twitter.com/danmall)) sharing his process to come up with an individual design. The more obscure your references, the more sources you combine, the more moves away from the original you can take, the more original your design will become.
+- [Little UI Details](https://twitter.com/i/moments/880688233641848832) - A collection of little tips from Steve Schoger [@steveschoger](https://twitter.com/steveschoger) to improve your visual design skills with the little details that make a big difference 
