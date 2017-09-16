@@ -27,6 +27,7 @@ A curated collection of articles and tutorials for developers to learn about Des
 - [Optical adjustment](https://medium.com/@lukejones/optical-adjustment-b55492a1165c) - Different ways to adjust Elements in the context of an overall visual language, or how a human would perceive the object by Luke&nbsp;Jones&nbsp;([@lukejones](https://twitter.com/lukejones)). Ever tried to center a play button?
 - [Stealing Your Way to Original Designs](http://danmall.me/articles/stealing-your-way-to-original-designs/) Dan&nbsp;Mall&nbsp;([@danmall](https://twitter.com/danmall)) sharing his process to come up with an individual design. The more obscure your references, the more sources you combine, the more moves away from the original you can take, the more original your design will become.
 - [Little UI Details](https://twitter.com/i/moments/880688233641848832) - A collection of little tips from Steve&nbsp;Schoger&nbsp;([@steveschoger](https://twitter.com/steveschoger)) to improve your visual design skills with the little details that make a big difference 
+- [A framework for creating a predictable & harmonious spacing system for faster design-dev handoff](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c) The 3Cs is a great concept of a systematic approach to UI Design can result in a way more readable and consistant design across the entire solution. Priyanka&nbsp;Godbole&nbsp;([@priyankagodbole](https://twitter.com/priyankagodbole)) guides through the rules for Containers, Content and Components. The various examples on how the rules are being applied to form fields are a must read.
 
 
 # Ressources
@@ -48,6 +49,7 @@ Check out the [A Coder's Guide To Design Twitter list](https://twitter.com/AlexG
 - Luke&nbsp;Jones&nbsp;[@lukejones](https://twitter.com/lukejones)
 - Mike&nbsp;Borsare&nbsp; [@mborsare](https://twitter.com/mborsare)
 - Nick&nbsp;Babich&nbsp;[@101babich](https://twitter.com/101babich)
+- Priyanka&nbsp;Godbole&nbsp;[@priyankagodbole](https://twitter.com/priyankagodbole)
 - Ralph&nbsp;Ammer&nbsp;[@ralphammer](https://twitter.com/ralphammer)
 - Steve&nbsp;Schoger&nbsp;[@steveschoger](https://twitter.com/steveschoger)
 - Tom&nbsp;Koszyk&nbsp;[@tomkoszyk](https://twitter.com/tomkoszyk)
