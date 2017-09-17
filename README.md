@@ -39,7 +39,7 @@ Check out the [A Coder's Guide To Design Twitter list](https://twitter.com/AlexG
 
 ### Contributors
 - Alexandru&nbsp;Gogan&nbsp;[@alexg0g](https://twitter.com/@alexg0g) 
-- Ralf&nbsp;Hofmeister&nbsp;[@ralfhoffmeister](https://twitter.com/@ralfhoffmeister) 
+- Ralf&nbsp;Hoffmeister&nbsp;[@ralfhoffmeister](https://twitter.com/@ralfhoffmeister) 
 
 ### Featured articles and posts
 - Chen&nbsp;Ye&nbsp;[@siranachronist](https://twitter.com/siranachronist)
