@@ -6,12 +6,12 @@ A curated collection of articles and tutorials for developers to learn about Des
 ## Colors
 
 - [It's only color](https://robots.thoughtbot.com/Its-only-color) - A short introduction into basic color theory from Mike&nbsp;Borsare&nbsp;([@mborsare](https://twitter.com/mborsare)) followed by extracting a color palette from an image and applying it to a basic web layout.
-- [A Simple Web Developer’s Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/) - Laura&nbsp;Elizabeth&nbsp;([@laurium](https://twitter.com/laurium)) shows step by step how to create a color scheme from groundup.
+- [A Simple Web Developer’s Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/) - Laura&nbsp;Elizabeth&nbsp;([@laurium](https://twitter.com/laurium)) shows step by step how to create a color scheme from ground up.
 
 
 ## Information Architecture
 - [Defining Design](https://medium.com/hh-design/defining-the-big-d-afc856b4b8d) - Really awesome and short read starting with Information Architecture, moving to UI Design and introduces Visual Design with a focus on Product Design by Chen&nbsp;Ye&nbsp;([@siranachronist](https://twitter.com/siranachronist))
-- [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/) - Information architecture is about helping people understand their surroundings and find what they’re looking for, in the real world as well as online. A great read with lots of additional ressources to dive deep and follow a set of awesome people on twitter. 
+- [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/) - Information architecture is about helping people understand their surroundings and find what they’re looking for, in the real world as well as online. A great read with lots of additional resources to dive deep and follow a set of awesome people on twitter. 
 - [Now I get it! How to design clarity in 3 steps](https://blog.prototypr.io/now-i-get-it-b97b022a380c) - Ralph&nbsp;Ammer&nbsp;([@ralphammer](https://twitter.com/ralphammer)) guides with is awesome read from Structure to Process to the actual Design.
 
 
