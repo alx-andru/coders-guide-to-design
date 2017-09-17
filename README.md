@@ -28,6 +28,7 @@ A curated collection of articles and tutorials for developers to learn about Des
 - [Stealing Your Way to Original Designs](http://danmall.me/articles/stealing-your-way-to-original-designs/) Dan&nbsp;Mall&nbsp;([@danmall](https://twitter.com/danmall)) sharing his process to come up with an individual design. The more obscure your references, the more sources you combine, the more moves away from the original you can take, the more original your design will become.
 - [Little UI Details](https://twitter.com/i/moments/880688233641848832) - A collection of little tips from Steve&nbsp;Schoger&nbsp;([@steveschoger](https://twitter.com/steveschoger)) to improve your visual design skills with the little details that make a big difference 
 - [A framework for creating a predictable & harmonious spacing system for faster design-dev handoff](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c) The 3Cs is a great concept of a systematic approach to UI Design can result in a way more readable and consistant design across the entire solution. Priyanka&nbsp;Godbole&nbsp;([@priyankagodbole](https://twitter.com/priyankagodbole)) guides through the rules for Containers, Content and Components. The various examples on how the rules are being applied to form fields are a must read.
+- [Optical Effects in User Interfaces (for True Nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a) - How to make optically balanced icons, correct shape alignment, and perfect corner rounding by Slava Shestopalov [@shestopalov_v](https://twitter.com/shestopalov_v).
 
 
 # Ressources
@@ -38,7 +39,7 @@ Check out the [A Coder's Guide To Design Twitter list](https://twitter.com/AlexG
 
 ### Contributors
 - Alexandru&nbsp;Gogan&nbsp;[@alexg0g](https://twitter.com/@alexg0g) 
-- Ralf&nbsp;Hofmeister&nbsp;[@ralfhoffmeister](https://twitter.com/@ralfhoffmeister) 
+- Ralf&nbsp;Hoffmeister&nbsp;[@ralfhoffmeister](https://twitter.com/@ralfhoffmeister) 
 
 ### Featured articles and posts
 - Chen&nbsp;Ye&nbsp;[@siranachronist](https://twitter.com/siranachronist)
