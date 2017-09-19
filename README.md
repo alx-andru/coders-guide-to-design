@@ -2,9 +2,10 @@
 # Coder's Guide To Design
 A curated collection of articles and tutorials for developers to learn about Design and UI/UX
 
+## Set your mind
+- [How to become a designer without going to design school](http://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school) Karen&nbsp;X&nbsp;Cheng&nbsp;([@karenxcheng](http://twitter.com/karenxcheng)) first step, learn to see is one of the most important advice. Filled with great resources, the rest of her article is worth a read as well.
 
 ## Colors
-
 - [It's only color](https://robots.thoughtbot.com/Its-only-color) - A short introduction into basic color theory from Mike&nbsp;Borsare&nbsp;([@mborsare](https://twitter.com/mborsare)) followed by extracting a color palette from an image and applying it to a basic web layout.
 - [A Simple Web Developer’s Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/) - Laura&nbsp;Elizabeth&nbsp;([@laurium](https://twitter.com/laurium)) shows step by step how to create a color scheme from ground up.
 
@@ -46,6 +47,7 @@ Check out the [A Coder's Guide To Design Twitter list](https://twitter.com/AlexG
 - Dan&nbsp;Mall&nbsp;[@danmall](https://twitter.com/danmall)
 - Erik&nbsp;Kennedy&nbsp;[@erikdkennedy](https://twitter.com/erikdkennedy)
 - Jessica&nbsp;Hische&nbsp;[@jessicahische](https://twitter.com/jessicahische)
+- Karen&nbsp;X&nbsp;Cheng&nbsp;[@karenxcheng](http://twitter.com/karenxcheng)
 - Laura&nbsp;Elizabeth&nbsp;[@laurium](https://twitter.com/laurium)
 - Luke&nbsp;Jones&nbsp;[@lukejones](https://twitter.com/lukejones)
 - Mike&nbsp;Borsare&nbsp; [@mborsare](https://twitter.com/mborsare)
