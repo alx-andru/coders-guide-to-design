@@ -19,7 +19,7 @@ A curated collection of articles and tutorials for developers to learn about Des
 ## Typography
 - [26 Digital Typography Rules for Beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3) - Quick collection of Typography tips by Tom&nbsp;Koszyk&nbsp;([@tomkoszyk](https://twitter.com/tomkoszyk)). Some provide an explenation, some purely a direction.
 - [don't fear the internet - Web Typography](http://www.dontfeartheinternet.com/07-web-typography/) - 15 minute Video by Jessica&nbsp;Hische&nbsp;([@jessicahische](https://twitter.com/jessicahische)) about Web Typography. This Video is originally aimed at Designers learning to code, but the concept works in both directions. At around 8 minutes, Jessica shows you step by step how she structures and styles a simple website. 
-
+- [Better web typography in 13 simple steps](http://www.creativebloq.com/typography/better-web-typography-few-simple-steps-5132803) is a series of hands-on tipps. Most useful to it, '07 learn your HTML entities and '11 Take control over line-breaks 
 
 ## UI Design 
 - [How to use contrast in UI Design](https://blog.prototypr.io/how-contrast-works-in-ui-design-21bf75a5a2bf) - A short scroll through blog post by Wojciech&nbsp;Zieliński&nbsp;([@acreno_](https://twitter.com/acreno_)) with examples on contrast can be used to direct attention. 
