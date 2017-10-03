@@ -20,7 +20,7 @@ A curated collection of articles and tutorials for developers to learn about Des
 - [26 Digital Typography Rules for Beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3) - Quick collection of Typography tips by Tom&nbsp;Koszyk&nbsp;([@tomkoszyk](https://twitter.com/tomkoszyk)). Some provide an explenation, some purely a direction.
 - [don't fear the internet - Web Typography](http://www.dontfeartheinternet.com/07-web-typography/) - 15 minute Video by Jessica&nbsp;Hische&nbsp;([@jessicahische](https://twitter.com/jessicahische)) about Web Typography. This Video is originally aimed at Designers learning to code, but the concept works in both directions. At around 8 minutes, Jessica shows you step by step how she structures and styles a simple website. 
 - [Better web typography in 13 simple steps](http://www.creativebloq.com/typography/better-web-typography-few-simple-steps-5132803) is a series of hands-on tipps. Most useful to it, '07 learn your HTML entities and '11 Take control over line-breaks 
-
+- [A five minute guide to better typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) is an excellent short scroll tutorial by Pierick&nbsp;Calvez&nbsp;([@pierrickcalvez](https://twitter.com/pierrickcalvez)) with great illustrative examples to implement right away.
 ## UI Design 
 - [How to use contrast in UI Design](https://blog.prototypr.io/how-contrast-works-in-ui-design-21bf75a5a2bf) - A short scroll through blog post by Wojciech&nbsp;Zieliński&nbsp;([@acreno_](https://twitter.com/acreno_)) with examples on contrast can be used to direct attention. 
 - [Mastering the Power of Nothing](https://medium.springboard.com/mastering-the-power-of-nothing-a9f6971f1fd) - how to use whitespace in a design to improve user experience. Nick&nbsp;Babich&nbsp;([@101babich](https://twitter.com/101babich)) addresses one of the most valuable assets of interactive design. The whitespace on a page, even though often overlooked, can be every bit as important as the space occupied by UI elements.
@@ -52,6 +52,7 @@ Check out the [A Coder's Guide To Design Twitter list](https://twitter.com/AlexG
 - Luke&nbsp;Jones&nbsp;[@lukejones](https://twitter.com/lukejones)
 - Mike&nbsp;Borsare&nbsp; [@mborsare](https://twitter.com/mborsare)
 - Nick&nbsp;Babich&nbsp;[@101babich](https://twitter.com/101babich)
+- Pierrick&nbsp;Calvez&nbsp;[@pierrickcalvez](https://twitter.com/pierrickcalvez)
 - Priyanka&nbsp;Godbole&nbsp;[@priyankagodbole](https://twitter.com/priyankagodbole)
 - Ralph&nbsp;Ammer&nbsp;[@ralphammer](https://twitter.com/ralphammer)
 - Slava&nbsp;Shestopalov&nbsp;[@shestopalov_v](https://twitter.com/shestopalov_v)
