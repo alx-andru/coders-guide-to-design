@@ -30,7 +30,7 @@ A curated collection of articles and tutorials for developers to learn about Des
 - [Little UI Details](https://twitter.com/i/moments/880688233641848832) - A collection of little tips from Steve&nbsp;Schoger&nbsp;([@steveschoger](https://twitter.com/steveschoger)) to improve your visual design skills with the little details that make a big difference 
 - [A framework for creating a predictable & harmonious spacing system for faster design-dev handoff](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c) The 3Cs is a great concept of a systematic approach to UI Design can result in a way more readable and consistant design across the entire solution. Priyanka&nbsp;Godbole&nbsp;([@priyankagodbole](https://twitter.com/priyankagodbole)) guides through the rules for Containers, Content and Components. The various examples on how the rules are being applied to form fields are a must read.
 - [Optical Effects in User Interfaces (for True Nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a) - How to make optically balanced icons, correct shape alignment, and perfect corner rounding by Slava&nbsp;Shestopalov&nbsp;([@shestopalov_v](https://twitter.com/shestopalov_v)).
-
+- [A developers guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d) - A good intro showing the importance of using the right tools for the right purpose by Patrik&nbsp;Krupar&nbsp;([@pkrupar](https://twitter.com/@pkrupar))
 
 # Ressources
 Find a collection of twitter accounts, blogs and helpful ressources to keep you 
@@ -59,3 +59,4 @@ Check out the [A Coder's Guide To Design Twitter list](https://twitter.com/AlexG
 - Steve&nbsp;Schoger&nbsp;[@steveschoger](https://twitter.com/steveschoger)
 - Tom&nbsp;Koszyk&nbsp;[@tomkoszyk](https://twitter.com/tomkoszyk)
 - Wojciech&nbsp;Zieliński&nbsp;[@acreno_](https://twitter.com/acreno_)
+- Patrick&nbsp;Krupar&nbsp;[@pkrupar](https://twitter.com/@pkrupar)
