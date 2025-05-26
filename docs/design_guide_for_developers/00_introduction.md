@@ -1,0 +1,3 @@
+# Introduction: Design as a Developer's Superpower
+
+As a full-stack developer, you're already a skilled builder, adept at bringing complex systems to life. This guide isn't about turning you into a full-time designer, but about equipping you with core UI/UX principles to augment your existing capabilities. Understanding these fundamentals can help you make more informed decisions when design resources are limited, collaborate more effectively with designers, and ultimately build products that are not only functional but also intuitive and enjoyable to use. Think of these principles as a set of tools to enhance your problem-solving and create more impactful software.
